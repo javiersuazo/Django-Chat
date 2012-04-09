@@ -104,10 +104,10 @@ MIDDLEWARE_CLASSES = (
 )
 
 ROOT_URLCONF = 'chat.urls'
-STATIC_DOC_ROOT='C:/Users/Dean/Documents/Projects/Chat/app/chat/common'
-FILES_PATH = 'C:/Users/Dean/Documents/Projects/Chat/app/chat/files'
+STATIC_DOC_ROOT='/home/javier/Django-Chat/app/chat/common'
+FILES_PATH = '/home/javier/Django-Chat/app/chat/files'
 TEMPLATE_DIRS = (
-'C:/Users/Dean/Documents/Projects/Chat/app/chat/templates'
+'/home/javier/Django-Chat/app/chat/templates'
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
